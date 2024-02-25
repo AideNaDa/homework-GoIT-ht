@@ -1,1 +1,1 @@
-# homework-GoIT-ht
+# goit-js-hw-01
